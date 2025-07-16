@@ -1,0 +1,13 @@
+{
+  "specversion": "1.0",
+  "type": "google.cloud.storage.object.v1.finalized",
+  "source": "//storage.googleapis.com/projects/_/buckets/jkey-videos-to-upscale",
+  "subject": "objects/my-test-video.mp4",
+  "id": "1234567890",
+  "time": "2025-07-16T00:00:00.000Z",
+  "datacontenttype": "application/json",
+  "data": {
+    "bucket": "vflow-pipeline-to-upscale",
+    "name": "my-test-video.mp4"
+  }
+}
